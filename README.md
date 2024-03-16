@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=high5aturn&label=Profile%20views&color=0e75b6&style=flat" alt="high5aturn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=high5aturn" alt="high5aturn" /></a> </p>
-
 - 📫 How to reach me **rowshan@iut-dhaka.edu**
 
 - ⚡ Fun fact **I love gaming**
@@ -21,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=high5aturn&show_icons=true&locale=en&layout=compact" alt="high5aturn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=high5aturn&show_icons=true&locale=en" alt="high5aturn" /></p>
+
