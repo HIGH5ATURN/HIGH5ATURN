@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rowshan Mannan Oni</h1>
 <h3 align="center">Embracing the art of code, I soar, a student of software engineering, at IUT's vibrant core.</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-developer&psig=AOvVaw0SvqoCOEH6o5PBmm-OGbJD&ust=1710682482643000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC1pPXy-IQDFQAAAAAdAAAAABAR">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=high5aturn&label=Profile%20views&color=0e75b6&style=flat" alt="high5aturn" /> </p>
 
 - 📫 How to reach me **rowshan@iut-dhaka.edu**
